@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GK503&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=GK503&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=shadow_blue)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GK503&layout=compact&langs_count=200&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=GK503&layout=compact&langs_count=200&theme=dracula)
