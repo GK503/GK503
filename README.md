@@ -1,15 +1,12 @@
-```
- ██████╗ ██╗  ██╗    ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██████╗ ██╗ ██████╗ ██████╗ 
-██╔════╝ ██║  ██║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██║██╔═══██╗██╔══██╗
-██║  ███╗███████║    ██║     ██║   ██║██║  ██║█████╗      ██████╔╝██████╔╝██║██║   ██║██████╔╝
-██║   ██║██╔══██║    ██║     ██║   ██║██║  ██║██╔══╝      ██╔══██╗██╔══██╗██║██║   ██║██╔══██╗
-╚██████╔╝██║  ██║    ╚██████╗╚██████╔╝██████╔╝███████╗    ██████╔╝██║  ██║██║╚██████╔╝██║  ██║
- ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GK503/GK503/bg-output/bg.svg" width="100%" alt="GK503 animated background"/>
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&vCenter=true&multiline=true&repeatType=mirror&width=600&height=70&lines=FULL+STACK+DEVELOPER;GAMER+%2F+CODER+%2F+CREATOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&vCenter=true&multiline=true&repeatType=mirror&width=650&height=90&lines=FULL+STACK+JAVA+DEV;PYTORCH+%2B+UNREAL+ENGINE;HTML+CSS+%2B+STREAMLIT)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,8 +19,9 @@
 | | |
 |:---:|:---:|
 | **PLAYER TAG** | **GK503** |
-| **CLASS** | `FULL STACK DEV` |
-| **ATTRIBUTES** | ⚡ Coder · 🎮 Gamer · 🚀 Creator |
+| **CLASS** | `JAVA MAGE` |
+| **GUILD** | Java · Python · C++ |
+| **MAIN WEAPONS** | `Unreal Engine` · `PyTorch` |
 
 </div>
 
@@ -34,10 +32,10 @@
 
 <div align="center">
 
-![Level](https://img.shields.io/badge/LEVEL-99-ff00ff?style=for-the-badge)
-![Rank](https://img.shields.io/badge/RANK-ELITE-00ffff?style=for-the-badge)
+![Class](https://img.shields.io/badge/CLASS-JAVA+MAGE-ff00ff?style=for-the-badge)
+![Experience](https://img.shields.io/badge/EXPERIENCE-2+YRS-00ffff?style=for-the-badge)
+![Rank](https://img.shields.io/badge/RANK-APPRENTICE-ffe600?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-78%2C420-ffe600?style=for-the-badge)
 
 </div>
 
@@ -56,31 +54,53 @@
 
 ---
 
-### `EQUIPPED LOADOUT`
+### `SKILL TREE`
 
-> Weapons of choice — leveled up daily.
+> Stats subject to change — I level up by shipping.
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="TypeScript" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="React" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML5" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS3" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" alt="C#" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" title="Unreal Engine"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" title="Streamlit"/>
 
 </div>
 
 ---
 
+### `ATTRIBUTE LEVELS`
+
+> Self-reported guide — not an official patch note.
+
+```
+JAVA            ████████████████▌  MAIN WEAPON
+PYTHON / PYTORCH ████████████░░░   NEURAL BUFFS
+C++              ██████████░░░░░   UNREAL ENGINE
+HTML / CSS       ████████████░░░   WEB ARENA
+STREAMLIT        ████████░░░░░░   DATA TOOLS
+```
+
+---
+
 ### `ACHIEVEMENTS UNLOCKED`
 
-- 🚀 **First Commit** — Pushed to production
-- ⚡ **Speed Coder** — 100+ commits this year
-- 🎮 **Gamer Mode** — Code by day, game by night
-- 💻 **Full Stack** — Master of frontend + backend
-- 🏆 **Bug Slayer** — Squashing bugs like it's a boss fight
+- 🌱 **New Player** — Started in this server ~2 years ago
+- ☕ **Java Loyalist** — Java is home base ☕
+- 🤖 **Neural Explorer** — PyTorch quest in progress
+- 🎮 **World Builder** — Building worlds in Unreal Engine
+- 🔥 **Grinder** — Still showing up to play every day
 
 ---
 
@@ -115,6 +135,6 @@
 
 <div align="center">
 
-**`E N D _ O F _ S T A T S`** &nbsp;·&nbsp; [**`VISIT MY PROFILE`**](https://github.com/GK503)
+**`L O A D I N G _ N E X T _ A D V E N T U R E`** &nbsp;·&nbsp; [**`VISIT MY PROFILE`**](https://github.com/GK503)
 
 </div>
