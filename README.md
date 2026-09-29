@@ -30,7 +30,7 @@
 
 <div align="center">
 
-| | |
+| **Attribute** | **Value** |
 |:---:|:---:|
 | **PLAYER TAG** | **GK503** |
 | **CLASS** | `JAVA MAGE` |
@@ -97,19 +97,19 @@
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" title="Unreal Engine"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
-<img width="14" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" title="Streamlit"/>
 
 </div>

@@ -33,7 +33,6 @@ def format_stats(stats):
 
     total_seconds = stats.get("total_seconds", 0)
     human_readable_total = stats.get("human_readable_total", "0s")
-    daily_average = stats.get("daily_average", 0)
     human_readable_daily = stats.get("human_readable_daily_average", "0s")
     languages = stats.get("languages", [])
     streak = stats.get("streak", 0)
@@ -79,18 +78,10 @@ def update_readme(stats_content):
 
     readme_text = README_PATH.read_text(encoding="utf-8")
 
-    # Find and replace the HACKATIME PROFILE section
-    # Pattern: from "### HACKATIME PROFILE" to next "### " or end
-    pattern = r"(### HACKATIME PROFILE\n.*?)(?=\n### |\Z)"
-
     replacement = stats_content + "\n"
 
+    pattern = r"(### `HACKATIME STATS`\n.*?)(?=\n### |\Z)"
     new_readme = re.sub(pattern, replacement, readme_text, flags=re.DOTALL)
-
-    if new_readme == readme_text:
-        # If HACKATIME PROFILE not found, try to find HACKATIME STATS (backticks version)
-        pattern2 = r"(### `HACKATIME STATS`\n.*?)(?=\n### |\Z)"
-        new_readme = re.sub(pattern2, replacement, readme_text, flags=re.DOTALL)
 
     if new_readme == readme_text:
         # Section not found, append after PLAYER STATS
