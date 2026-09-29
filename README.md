@@ -54,7 +54,29 @@
 
 ---
 
-### `SKILL TREE`
+### `HACKATIME STATS`
+
+> Last updated: 2026-09-29 02:53 UTC
+
+| Metric | Value |
+|--------|-------|
+| **Total Time** | `4h 28m 32s` |
+| **Daily Average** | `4s` |
+| **Current Streak** | `2 days` |
+
+**Top Languages**
+
+| Language | Time | % |
+|----------|------|---|
+| <span style='color:#b07219'>●</span> Java | `2h 31m` | 56.6% |
+| <span style='color:#888888'>●</span> Other | `43m` | 16.1% |
+| <span style='color:#3572A5'>●</span> Python | `33m` | 12.4% |
+| <span style='color:#4298b8'>●</span> Groovy | `28m` | 10.4% |
+| <span style='color:#083fa1'>●</span> Markdown | `24m` | 9.3% |
+
+[View full profile on Hackatime](https://hackati.me/GK503)
+
+### SKILL TREE
 
 > Stats subject to change — I level up by shipping.
 
