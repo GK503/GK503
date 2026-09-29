@@ -6,8 +6,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&vCenter=true&multiline=true&repeatType=mirror&width=650&height=90&lines=FULL+STACK+JAVA+DEV;PYTORCH+%2B+UNREAL+ENGINE;HTML+CSS+%2B+STREAMLIT)](https://git.io/typing-svg)
+<h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF; animation: bounceIn 1.5s ease-out, glow 2s ease-in-out infinite alternate;">GK503</h1>
 
+<p style="font-size: 14px; color: #888; margin-top: 10px;">Hack Club Hackatime Profile</p>
+
+<style>
+@keyframes bounceIn {
+  0% { transform: scale(0) translateY(-50px); opacity: 0; }
+  50% { transform: scale(1.2) translateY(0px); opacity: 1; }
+  100% { transform: scale(1) translateY(0px); opacity: 1; }
+}
+
+@keyframes glow {
+  from { text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF; }
+  to { text-shadow: 0 0 20px #FF00FF, 0 0 30px #FF00FF, 0 0 40px #FF00FF; }
+}
+</style>
 </div>
 
 ---
