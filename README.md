@@ -1,176 +1,104 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GK503/GK503/bg-output/bg.svg" width="100%" alt="GK503 animated background"/>
+<img src="assets/header.svg" alt="GK503" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-f4a6c0?style=for-the-badge&logo=openjdk&logoColor=white)
+![Experience](https://img.shields.io/badge/2%2B_years_coding-b8a9e8?style=for-the-badge)
+![Learning](https://img.shields.io/badge/learning_PyTorch-ffb88c?style=for-the-badge&logo=pytorch&logoColor=white)
+![Status](https://img.shields.io/badge/currently-online-9fd8c1?style=for-the-badge)
 
-<h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF; animation: bounceIn 1.5s ease-out, glow 2s ease-in-out infinite alternate;">GK503</h1>
-
-<p style="font-size: 14px; color: #888; margin-top: 10px;">Hack Club Hackatime Profile</p>
-
-<style>
-@keyframes bounceIn {
-  0% { transform: scale(0) translateY(-50px); opacity: 0; }
-  50% { transform: scale(1.2) translateY(0px); opacity: 1; }
-  100% { transform: scale(1) translateY(0px); opacity: 1; }
-}
-
-@keyframes glow {
-  from { text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF; }
-  to { text-shadow: 0 0 20px #FF00FF, 0 0 30px #FF00FF, 0 0 40px #FF00FF; }
-}
-</style>
-</div>
-
----
-
-### `PLAYER IDENTIFICATION`
-
-<div align="center">
-
-| **Attribute** | **Value** |
-|:---:|:---:|
-| **PLAYER TAG** | **GK503** |
-| **CLASS** | `JAVA MAGE` |
-| **GUILD** | Java · Python · C++ |
-| **MAIN WEAPONS** | `Unreal Engine` · `PyTorch` |
-
-</div>
-
-<details>
-<summary><b>🎮 STATUS</b></summary>
-
-<br>
-
-<div align="center">
-
-![Class](https://img.shields.io/badge/CLASS-JAVA+MAGE-ff00ff?style=for-the-badge)
-![Experience](https://img.shields.io/badge/EXPERIENCE-2+YRS-00ffff?style=for-the-badge)
-![Rank](https://img.shields.io/badge/RANK-APPRENTICE-ffe600?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge)
-
-</div>
-
-</details>
-
----
-
-### `PLAYER STATS`
-
-<div align="center">
-
-[![GitHub Stats](https://raw.githubusercontent.com/GK503/GK503/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/GK503)
-[![Top Languages](https://raw.githubusercontent.com/GK503/GK503/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)](https://github.com/GK503)
+*Hack Club Hackatime Profile*
 
 </div>
 
 ---
 
-### `HACKATIME STATS`
+### hi, I'm GK503 🌸
 
-> Last updated: 2026-09-29 17:21 UTC
+I've been coding for about two years, and Java is where I feel most at home. Lately I'm building worlds in Unreal Engine and exploring neural networks with PyTorch. I ship things, learn from them, and start the next one.
 
-| Metric | Value |
-|--------|-------|
-| **Total Time** | `4h 49m 42s` |
-| **Daily Average** | `4s` |
-| **Current Streak** | `2 days` |
+| | |
+| --- | --- |
+| **Main language** | Java |
+| **Also using** | Python · C++ |
+| **Building with** | Unreal Engine · PyTorch |
+
+---
+
+### my coding activity ✨
+
+[![GitHub Stats](https://raw.githubusercontent.com/GK503/GK503/stats-output/stats.svg)](https://github.com/GK503)
+[![Top Languages](https://raw.githubusercontent.com/GK503/GK503/languages-output/languages.svg)](https://github.com/GK503)
+
+<!-- Keep your existing Hackatime block below exactly as it is, including any
+     marker comments your workflow uses to update it. -->
+
+> Last updated: 2026-09-30 03:12 UTC
+
+| Metric             | Value        |
+| ------------------ | ------------ |
+| **Total Time**     | `6h 29m 29s` |
+| **Daily Average**  | `6s`         |
+| **Current Streak** | `3 days`     |
 
 **Top Languages**
 
-| Language | Time | % |
-|----------|------|---|
-| <span style='color:#b07219'>●</span> Java | `2h 37m` | 54.5% |
-| <span style='color:#888888'>●</span> Other | `50m` | 17.3% |
-| <span style='color:#3572A5'>●</span> Python | `37m` | 12.9% |
-| <span style='color:#083fa1'>●</span> Markdown | `33m` | 11.7% |
-| <span style='color:#4298b8'>●</span> Groovy | `28m` | 9.7% |
+| Language   | Time     | %     |
+| ---------- | -------- | ----- |
+| ● Java     | `4h 17m` | 66.2% |
+| ● Other    | `50m`    | 12.9% |
+| ● Python   | `37m`    | 9.6%  |
+| ● Markdown | `35m`    | 9.2%  |
+| ● Groovy   | `28m`    | 7.2%  |
 
 [View full profile on Hackatime](https://hackati.me/GK503)
 
-### SKILL TREE
+---
 
-> Stats subject to change — I level up by shipping.
+### what I work with
 
-<div align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" alt="Unreal Engine"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" alt="Streamlit"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" title="PyTorch"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" title="Unreal Engine"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" title="Streamlit"/>
-
-</div>
+Java is my strongest, followed by Python and PyTorch, then HTML/CSS and C++ for Unreal, with Streamlit for quick data tools.
 
 ---
 
-### `ATTRIBUTE LEVELS`
+### little milestones
 
-> Self-reported guide — not an official patch note.
-
-```
-JAVA            ████████████████▌  MAIN WEAPON
-PYTHON / PYTORCH ████████████░░░   NEURAL BUFFS
-C++              ██████████░░░░░   UNREAL ENGINE
-HTML / CSS       ████████████░░░   WEB ARENA
-STREAMLIT        ████████░░░░░░   DATA TOOLS
-```
+- 🌱 Started coding about two years ago
+- ☕ Java is home base
+- 🤖 Exploring neural networks with PyTorch
+- 🎮 Building worlds in Unreal Engine
+- 🌙 Still showing up, day after day
 
 ---
 
-### `ACHIEVEMENTS UNLOCKED`
+### say hello
 
-- 🌱 **New Player** — Started in this server ~2 years ago
-- ☕ **Java Loyalist** — Java is home base ☕
-- 🤖 **Neural Explorer** — PyTorch quest in progress
-- 🎮 **World Builder** — Building worlds in Unreal Engine
-- 🔥 **Grinder** — Still showing up to play every day
+[![YouTube](https://img.shields.io/badge/YouTube-f4a6c0?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GK503)
+[![Twitch](https://img.shields.io/badge/Twitch-b8a9e8?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gk503)
+[![Discord](https://img.shields.io/badge/Discord-9aa8f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gk503)
+[![Instagram](https://img.shields.io/badge/Instagram-ff9fbd?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gk503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8fb8e8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gk503)
+[![Gmail](https://img.shields.io/badge/Gmail-ffb88c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk503@gmail.com)
 
----
-
-### `CONNECT`
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GK503)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gk503)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gk503)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gk503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gk503)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk503@gmail.com)
-
-</div>
-
----
-
-### `GAME OVER... NOT TODAY`
-
-<div align="center">
-
-[![GitHub Extended Stats](https://github-stats-extended.vercel.app/api?username=GK503&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=GK503&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=shadow_blue)
-
-</div>
+<br/>
 
 <div align="center">
 
 [![Snake animation](https://raw.githubusercontent.com/GK503/GK503/snake-output/snake.svg)](https://github.com/GK503)
 
-</div>
-
-<div align="center">
-
-**`L O A D I N G _ N E X T _ A D V E N T U R E`** &nbsp;·&nbsp; [**`VISIT MY PROFILE`**](https://github.com/GK503)
+*next adventure loading... 🌸*
 
 </div>
