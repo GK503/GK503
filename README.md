@@ -17,7 +17,6 @@
 
 ### hi, I'm GK503 🌸
 
-<<<<<<< HEAD
 I've been coding for about two years, and Java is where I feel most at home. Lately I'm building worlds in Unreal Engine and exploring neural networks with PyTorch. I ship things, learn from them, and start the next one.
 
 | | |
@@ -53,7 +52,6 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 | ● Python   | `37m`    | 9.6%  |
 | ● Markdown | `35m`    | 9.2%  |
 | ● Groovy   | `28m`    | 7.2%  |
-=======
 > Last updated: 2026-09-30 03:12 UTC
 
 | Metric | Value |
@@ -71,7 +69,6 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 | <span style='color:#3572A5'>●</span> Python | `37m` | 9.6% |
 | <span style='color:#083fa1'>●</span> Markdown | `35m` | 9.2% |
 | <span style='color:#4298b8'>●</span> Groovy | `28m` | 7.2% |
->>>>>>> ed2954efe68207e4fb3d3c6b677ae213daa2648e
 
 [View full profile on Hackatime](https://hackati.me/GK503)
 
