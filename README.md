@@ -70,23 +70,23 @@
 
 ### `HACKATIME STATS`
 
-> Last updated: 2026-09-29 17:21 UTC
+> Last updated: 2026-09-30 03:12 UTC
 
 | Metric | Value |
 |--------|-------|
-| **Total Time** | `4h 49m 42s` |
-| **Daily Average** | `4s` |
-| **Current Streak** | `2 days` |
+| **Total Time** | `6h 29m 29s` |
+| **Daily Average** | `6s` |
+| **Current Streak** | `3 days` |
 
 **Top Languages**
 
 | Language | Time | % |
 |----------|------|---|
-| <span style='color:#b07219'>●</span> Java | `2h 37m` | 54.5% |
-| <span style='color:#888888'>●</span> Other | `50m` | 17.3% |
-| <span style='color:#3572A5'>●</span> Python | `37m` | 12.9% |
-| <span style='color:#083fa1'>●</span> Markdown | `33m` | 11.7% |
-| <span style='color:#4298b8'>●</span> Groovy | `28m` | 9.7% |
+| <span style='color:#b07219'>●</span> Java | `4h 17m` | 66.2% |
+| <span style='color:#888888'>●</span> Other | `50m` | 12.9% |
+| <span style='color:#3572A5'>●</span> Python | `37m` | 9.6% |
+| <span style='color:#083fa1'>●</span> Markdown | `35m` | 9.2% |
+| <span style='color:#4298b8'>●</span> Groovy | `28m` | 7.2% |
 
 [View full profile on Hackatime](https://hackati.me/GK503)
 
