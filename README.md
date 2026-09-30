@@ -4,18 +4,18 @@
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-f4a6c0?style=for-the-badge&logo=openjdk&logoColor=white)
-![Experience](https://img.shields.io/badge/2%2B_years_coding-b8a9e8?style=for-the-badge)
-![Learning](https://img.shields.io/badge/learning_PyTorch-ffb88c?style=for-the-badge&logo=pytorch&logoColor=white)
-![Status](https://img.shields.io/badge/currently-online-9fd8c1?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-e5789f?style=for-the-badge&logo=openjdk&logoColor=white)
+![Experience](https://img.shields.io/badge/2%2B_years_coding-b985d6?style=for-the-badge)
+![Learning](https://img.shields.io/badge/learning_PyTorch-8e94e8?style=for-the-badge&logo=pytorch&logoColor=white)
+![Status](https://img.shields.io/badge/currently-online-6fa3ee?style=for-the-badge)
 
 *Hack Club Hackatime Profile*
 
 </div>
 
----
+<img src="assets/banner-about.svg" alt="hi, I'm GK503" width="100%"/>
 
-### hi, I'm GK503 🌸
+<table width="100%"><tr><td>
 
 I've been coding for about two years, and Java is where I feel most at home. Lately I'm building worlds in Unreal Engine and exploring neural networks with PyTorch. I ship things, learn from them, and start the next one.
 
@@ -25,33 +25,20 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 | **Also using** | Python · C++ |
 | **Building with** | Unreal Engine · PyTorch |
 
----
+</td></tr></table>
 
-### my coding activity ✨
+<img src="assets/banner-activity.svg" alt="my coding activity" width="100%"/>
+
+<table width="100%"><tr><td align="center">
 
 [![GitHub Stats](https://raw.githubusercontent.com/GK503/GK503/stats-output/stats.svg)](https://github.com/GK503)
 [![Top Languages](https://raw.githubusercontent.com/GK503/GK503/languages-output/languages.svg)](https://github.com/GK503)
 
-<!-- Keep your existing Hackatime block below exactly as it is, including any
-     marker comments your workflow uses to update it. -->
+</td></tr></table>
 
-> Last updated: 2026-09-30 03:12 UTC
+<table width="100%"><tr><td>
 
-| Metric             | Value        |
-| ------------------ | ------------ |
-| **Total Time**     | `6h 29m 29s` |
-| **Daily Average**  | `6s`         |
-| **Current Streak** | `3 days`     |
-
-**Top Languages**
-
-| Language   | Time     | %     |
-| ---------- | -------- | ----- |
-| ● Java     | `4h 17m` | 66.2% |
-| ● Other    | `50m`    | 12.9% |
-| ● Python   | `37m`    | 9.6%  |
-| ● Markdown | `35m`    | 9.2%  |
-| ● Groovy   | `28m`    | 7.2%  |
+<!--HACKATIME:START-->
 > Last updated: 2026-09-30 03:12 UTC
 
 | Metric | Value |
@@ -71,10 +58,13 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 | <span style='color:#4298b8'>●</span> Groovy | `28m` | 7.2% |
 
 [View full profile on Hackatime](https://hackati.me/GK503)
+<!--HACKATIME:END-->
 
----
+</td></tr></table>
 
-### what I work with
+<img src="assets/banner-tools.svg" alt="what I work with" width="100%"/>
+
+<table width="100%"><tr><td align="center">
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>&nbsp;
@@ -89,9 +79,11 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 
 Java is my strongest, followed by Python and PyTorch, then HTML/CSS and C++ for Unreal, with Streamlit for quick data tools.
 
----
+</td></tr></table>
 
-### little milestones
+<img src="assets/banner-milestones.svg" alt="little milestones" width="100%"/>
+
+<table width="100%"><tr><td>
 
 - 🌱 Started coding about two years ago
 - ☕ Java is home base
@@ -99,23 +91,23 @@ Java is my strongest, followed by Python and PyTorch, then HTML/CSS and C++ for 
 - 🎮 Building worlds in Unreal Engine
 - 🌙 Still showing up, day after day
 
----
+</td></tr></table>
 
-### say hello
+<img src="assets/banner-hello.svg" alt="say hello" width="100%"/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-f4a6c0?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GK503)
-[![Twitch](https://img.shields.io/badge/Twitch-b8a9e8?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gk503)
-[![Discord](https://img.shields.io/badge/Discord-9aa8f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gk503)
-[![Instagram](https://img.shields.io/badge/Instagram-ff9fbd?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gk503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8fb8e8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gk503)
-[![Gmail](https://img.shields.io/badge/Gmail-ffb88c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk503@gmail.com)
+<table width="100%"><tr><td align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-8e94e8?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GK503)
+[![Twitch](https://img.shields.io/badge/Twitch-7b9cec?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gk503)
+[![Discord](https://img.shields.io/badge/Discord-6fa3ee?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gk503)
+[![Instagram](https://img.shields.io/badge/Instagram-5f93e4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gk503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f86dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gk503)
+[![Gmail](https://img.shields.io/badge/Gmail-4470cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk503@gmail.com)
 
 <br/>
 
-<div align="center">
-
 [![Snake animation](https://raw.githubusercontent.com/GK503/GK503/snake-output/snake.svg)](https://github.com/GK503)
 
-*next adventure loading... 🌸*
+</td></tr></table>
 
-</div>
+<img src="assets/footer.svg" alt="next adventure loading..." width="100%"/>
