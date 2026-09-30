@@ -12,30 +12,3 @@
 <div align="center">
 <img src="assets/footer.svg" alt="next adventure loading..." width="100%">
 </div>
-
-<details>
-<summary>live Hackatime data</summary>
-
-<!--HACKATIME:START-->
-> Last updated: 2026-09-30 03:12 UTC
-
-| Metric | Value |
-|--------|-------|
-| **Total Time** | `6h 29m 29s` |
-| **Daily Average** | `6s` |
-| **Current Streak** | `3 days` |
-
-**Top Languages**
-
-| Language | Time | % |
-|----------|------|---|
-| <span style='color:#b07219'>●</span> Java | `4h 17m` | 66.2% |
-| <span style='color:#888888'>●</span> Other | `50m` | 12.9% |
-| <span style='color:#3572A5'>●</span> Python | `37m` | 9.6% |
-| <span style='color:#083fa1'>●</span> Markdown | `35m` | 9.2% |
-| <span style='color:#4298b8'>●</span> Groovy | `28m` | 7.2% |
-
-[View full profile on Hackatime](https://hackati.me/GK503)
-<!--HACKATIME:END-->
-
-</details>
