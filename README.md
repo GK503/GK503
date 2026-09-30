@@ -1,42 +1,13 @@
 <div align="center">
-
-<img src="assets/header.svg" alt="GK503" width="100%"/>
-
-<br/>
-
-![Java](https://img.shields.io/badge/Java-e5789f?style=for-the-badge&logo=openjdk&logoColor=white)
-![Experience](https://img.shields.io/badge/2%2B_years_coding-b985d6?style=for-the-badge)
-![Learning](https://img.shields.io/badge/learning_PyTorch-8e94e8?style=for-the-badge&logo=pytorch&logoColor=white)
-![Status](https://img.shields.io/badge/currently-online-6fa3ee?style=for-the-badge)
-
-*Hack Club Hackatime Profile*
-
+<img src="assets/header.svg" alt="GK503" width="100%">
+<img src="assets/panel-about.svg" alt="hi, I'm GK503" width="100%">
+<img src="assets/panel-activity.svg" alt="my coding activity" width="100%">
 </div>
 
-<img src="assets/banner-about.svg" alt="hi, I'm GK503" width="100%"/>
-
-<table width="100%"><tr><td>
-
-I've been coding for about two years, and Java is where I feel most at home. Lately I'm building worlds in Unreal Engine and exploring neural networks with PyTorch. I ship things, learn from them, and start the next one.
-
-| | |
-| --- | --- |
-| **Main language** | Java |
-| **Also using** | Python · C++ |
-| **Building with** | Unreal Engine · PyTorch |
-
-</td></tr></table>
-
-<img src="assets/banner-activity.svg" alt="my coding activity" width="100%"/>
-
-<table width="100%"><tr><td align="center">
+<div align="center">
 
 [![GitHub Stats](https://raw.githubusercontent.com/GK503/GK503/stats-output/stats.svg)](https://github.com/GK503)
 [![Top Languages](https://raw.githubusercontent.com/GK503/GK503/languages-output/languages.svg)](https://github.com/GK503)
-
-</td></tr></table>
-
-<table width="100%"><tr><td>
 
 <!--HACKATIME:START-->
 > Last updated: 2026-09-30 03:12 UTC
@@ -60,54 +31,15 @@ I've been coding for about two years, and Java is where I feel most at home. Lat
 [View full profile on Hackatime](https://hackati.me/GK503)
 <!--HACKATIME:END-->
 
-</td></tr></table>
-
-<img src="assets/banner-tools.svg" alt="what I work with" width="100%"/>
-
-<table width="100%"><tr><td align="center">
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" alt="Unreal Engine"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" alt="Streamlit"/>
-</p>
-
-Java is my strongest, followed by Python and PyTorch, then HTML/CSS and C++ for Unreal, with Streamlit for quick data tools.
-
-</td></tr></table>
-
-<img src="assets/banner-milestones.svg" alt="little milestones" width="100%"/>
-
-<table width="100%"><tr><td>
-
-- 🌱 Started coding about two years ago
-- ☕ Java is home base
-- 🤖 Exploring neural networks with PyTorch
-- 🎮 Building worlds in Unreal Engine
-- 🌙 Still showing up, day after day
-
-</td></tr></table>
-
-<img src="assets/banner-hello.svg" alt="say hello" width="100%"/>
-
-<table width="100%"><tr><td align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-8e94e8?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GK503)
-[![Twitch](https://img.shields.io/badge/Twitch-7b9cec?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gk503)
-[![Discord](https://img.shields.io/badge/Discord-6fa3ee?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gk503)
-[![Instagram](https://img.shields.io/badge/Instagram-5f93e4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gk503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f86dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gk503)
-[![Gmail](https://img.shields.io/badge/Gmail-4470cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk503@gmail.com)
-
-<br/>
-
 [![Snake animation](https://raw.githubusercontent.com/GK503/GK503/snake-output/snake.svg)](https://github.com/GK503)
 
-</td></tr></table>
+</div>
 
-<img src="assets/footer.svg" alt="next adventure loading..." width="100%"/>
+<div align="center">
+<img src="assets/panel-tools.svg" alt="what I work with and little milestones" width="100%">
+<img src="assets/panel-hello.svg" alt="say hello" width="100%">
+</div>
+<div align="center"><a href="https://youtube.com/@GK503"><img src="assets/tile-youtube.svg" alt="youtube" width="16.66%"></a><a href="https://twitch.tv/gk503"><img src="assets/tile-twitch.svg" alt="twitch" width="16.66%"></a><a href="https://discord.gg/gk503"><img src="assets/tile-discord.svg" alt="discord" width="16.66%"></a><a href="https://instagram.com/gk503"><img src="assets/tile-instagram.svg" alt="instagram" width="16.66%"></a><a href="https://linkedin.com/in/gk503"><img src="assets/tile-linkedin.svg" alt="linkedin" width="16.66%"></a><a href="mailto:gk503@gmail.com"><img src="assets/tile-gmail.svg" alt="gmail" width="16.7%"></a></div>
+<div align="center">
+<img src="assets/footer.svg" alt="next adventure loading..." width="100%">
+</div>
