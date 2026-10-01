@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/1279876954081984628"><img src="https://lanyard.cnrad.dev/api/1279876954081984628" alt="Discord Presence"></a>
+<a href="https://discord.com/users/1279876954081984628"><img src="https://raw.githubusercontent.com/GK503/GK503/lanyard-output/lanyard.svg" alt="Discord Presence"></a>
 </div>
 
 <div align="center">
