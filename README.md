@@ -1,4 +1,5 @@
 <div align="center">
+<p>THIS PROFILE README.md IS STILL UNDER DEVELOPMENT!</p>
 <img src="assets/header.svg" alt="GK503" width="100%">
 <img src="assets/panel-about.svg" alt="hi, I'm GK503" width="100%">
 <a href="https://hackati.me/GK503"><img src="assets/panel-activity.svg" alt="my coding activity" width="100%"></a>
